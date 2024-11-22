@@ -36,7 +36,7 @@
 
 ## 📫 Connect with Me
 
-- Email: [i@yukino.io](mailto:i@yukino.io)
+- Email: [i#yukino.io](mailto:i@yukino.io)
 - Discord: taloran.
 
 - PGP Key: [95D442D57BF342431419D397AC4889E31B680CB6](https://keys.openpgp.org/search?q=95D442D57BF342431419D397AC4889E31B680CB6)
